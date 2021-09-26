@@ -1,4 +1,12 @@
-# MarkDownload - Markdown Web Clipper
+# Obsidian_MakrDownload
+
+This is meant to be a form of [MarkDownload](https://github.com/deathau/markdownload) that works with obsidian's URI handler immediatly.
+
+You'll be able to specify the vault & directory and save yourself like 3 clicks so satisfy your laziness.
+
+When will this be done? If I wasn't lazy I wouldn't be making it in the first place, so idk... start it and come back..in a year or two.
+
+<!-- # MarkDownload - Markdown Web Clipper
 
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/deathau/markdownload?style=for-the-badge&sort=semver)](https://github.com/deathau/markdownload/releases/latest)
 
@@ -112,3 +120,4 @@ in my hat via the following:
 ## 2.1.3
 - Fist change, forked from [enrico-kaack/markdown-clipper](https://github.com/enrico-kaack/markdown-clipper)
 - Added URL to markdown output ([#5](https://github.com/deathau/markdownload/issues/5))
+ -->
