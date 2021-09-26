@@ -4,7 +4,7 @@ This is meant to be a form of [MarkDownload](https://github.com/deathau/markdown
 
 You'll be able to specify the vault & directory and save yourself like 3 clicks so satisfy your laziness.
 
-When will this be done? If I wasn't lazy I wouldn't be making it in the first place, so idk... start it and come back..in a year or two.
+When will this be done? If I wasn't lazy I wouldn't be making it in the first place, so idk... star it and come back..in a year or two.
 
 <!-- # MarkDownload - Markdown Web Clipper
 
